@@ -14,15 +14,3 @@ body, html {
     </svg>
   '});
 }
-
-
-.test2 {
-  @include svg('polygon', (
-    points: "50,5 100,5 125,30 125,80 100,105 50,105 25,80 25, 30",
-    style: (
-      stroke: #600,
-      fill: #c33,
-      stroke-width: 3
-    )
-  ));
-}

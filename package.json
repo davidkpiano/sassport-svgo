@@ -1,0 +1,23 @@
+{
+  "name": "sassport-svgo",
+  "version": "0.0.1",
+  "description": "Inlined, optimized SVG inside your Sass files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkpiano/sassport-svgo.git"
+  },
+  "author": "David Khourshid <davidkpiano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidkpiano/sassport-svgo/issues"
+  },
+  "homepage": "https://github.com/davidkpiano/sassport-svgo#readme",
+  "dependencies": {
+    "sassport": "^0.2.0",
+    "svgo": "^0.5.6"
+  }
+}
